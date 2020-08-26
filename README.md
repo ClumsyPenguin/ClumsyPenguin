@@ -2,9 +2,9 @@
 
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
-- 🔭 I’m currently working on somethin cool!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on somethin cool! 
+- 🌱 I’m currently learning everything 🤣 but mainly advanced Python and Fluttter
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make my own PCB designs
 
