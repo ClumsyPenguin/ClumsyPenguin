@@ -2,9 +2,7 @@
 
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
-- 🔭 I’m currently working on somethin cool! 
-- 🌱 I’m currently learning everything 🤣 but mainly Vue and Fluttter
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning everything, but mainly Vue and Fluttter
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make my own PCB designs
 
