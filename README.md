@@ -2,9 +2,9 @@
 
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
-- 🌱 I’m currently learning everything, but mainly Vue and Fluttter
+- 🌱 I’m currently learning alot of stuff honestly, but mainly Vue and Fluttter
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make my own PCB designs
+- ⚡ Fun fact: I love to make my own PCB designs and IoT projects
 
 ### Connect with me:
 
@@ -39,8 +39,8 @@
 <details>
     <br />
   <summary>:zap: Github Stats & Languages</summary>
-  <img align="left" alt="clumsy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clumsypenguin&show_icons=true&hide_border=true&theme=radical"/>
-  <img align="right" alt="clumsy Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsypenguin" />
+  <img align="left" alt="clumsy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ClumsyPenguin&show_icons=true&hide_border=true&theme=radical"/>
+  <img align="right" alt="clumsy Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClumsyPenguin" />
 </details>
 
 [twitter]: https://twitter.com/seppe318
