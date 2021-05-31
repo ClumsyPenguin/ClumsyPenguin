@@ -8,14 +8,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="clumpsy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="clumpsy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="clumpsy  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-<img align="left" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&amp;">
+<img align="left" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&amp;"/>
+<img align="left" alt="Blazor" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/>
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -39,10 +39,8 @@
 <details>
     <br />
   <summary>:zap: Github Stats & Languages</summary>
-  <img align="left" alt="clumsy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ClumsyPenguin&show_icons=true&hide_border=true&theme=radical"/>
-  <img align="right" alt="clumsy Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClumsyPenguin" />
+  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=clumsyPenguin"/>
+  <img align="left" alt="clumsy Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsyPenguin" />
 </details>
 
-[twitter]: https://twitter.com/seppe318
-[instagram]: https://www.instagram.com/seppe318
 [linkedin]: https://www.linkedin.com/in/seppe-geerinckx-30b236156/
