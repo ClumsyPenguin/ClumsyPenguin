@@ -3,7 +3,7 @@
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
 - 🌱 I’m currently learning alot of stuff honestly, but mainly playing Vue and Flutter projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make my own PCB designs and IoT projects
 
 ### Connect with me:
