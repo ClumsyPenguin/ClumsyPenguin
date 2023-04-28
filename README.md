@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4GMwBL6.png">
+<img src="./header.png">
 
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
