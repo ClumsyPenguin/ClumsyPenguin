@@ -6,9 +6,10 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make my own PCB designs and IoT projects
 
-### Connect with me:
+[![](https://visitcount.itsvg.in/api?id=ClumsyPenguin&icon=2&color=3)](https://visitcount.itsvg.in)
 
-[<img align="left" alt="clumpsy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seppe-geerinckx-30b236156/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7296657/clumpsypenguin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/seppe318) 
 
 <br />
 
@@ -22,4 +23,17 @@
 
 <br/>
 
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ClumsyPenguin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ClumsyPenguin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClumsyPenguin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [linkedin]: https://www.linkedin.com/in/seppe-geerinckx-30b236156/
+
+---
+
+<br/>
+<br/>
+<img src="./keepcoding.png">
