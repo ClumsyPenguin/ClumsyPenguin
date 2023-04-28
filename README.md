@@ -1,4 +1,4 @@
-### Hi there, I'm Seppe - aka Clumsypenguin 👋
+<img src="https://i.imgur.com/4GMwBL6.png">
 
 ## I'm a Fullstack Developer, and Electronics Engineer!
 
