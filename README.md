@@ -1,6 +1,6 @@
 <img src="./header.png">
 
-## I'm a Fullstack Developer, and Electronics Engineer!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=I'm+a+Fullstack+Developer+and+Electronics+Engineer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning alot of stuff honestly, but mainly playing Vue and Flutter projects
 - 🥅 2023 Goals: Contribute more to Open Source projects
